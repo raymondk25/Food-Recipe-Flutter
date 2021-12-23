@@ -2,7 +2,7 @@
 
 ### Description:
 
-Do you enjoy cooking? If not, are there any culinary fans among your friends? Anyway, you probably know that searching for the right recipe on the Internet may take a lot of time.  Just use ChefBook app, that will make your cooking easier, faster, and more convenient.
+Do you enjoy cooking? If not, are there any culinary fans among your friends? Anyway, you probably know that searching for the right recipe on the Internet may take a lot of time.  Just use ChefBook app, that will makes your cooking easier, faster, and more convenient.
  
 ### Screeshots
 <p float="left">
